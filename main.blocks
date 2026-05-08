@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="hm-o_cO~eQ7cuwT(5z~c">als de waarde van het kompas &lt; 225 en &gt; 135 dan</variable><variable id="~hxrkjlW]]IT(p6e3$F]">als de waarde van kompas &lt; 315 en &gt; 225</variable><variable id="ULw,~igXzU308K*EIJV_">als de waarde van het kompas &lt; 225 en &gt; 135</variable><variable id="24eXci$1!K_KTQ/CDLCC">als de waarde van het kompas &lt; 315 en &gt; 225</variable><variable id="-V+9N}I]=SsUB~Puea[,">waarde</variable><variable id="%)b|{;hA/1*wVCX;W|`(">lijst</variable><variable id=":Uq.g-`9AZ4|/e|wpv-5">index</variable><variable id="$YX=QmJW:LkrJ@l=U*.;">als de waarde van het kompas</variable><variable id="nFxA3`*S[T@+u~A$rCfS">als de waarde van het kompas &lt; 135 en &gt; 45</variable><variable id="SN~!O~Elp{=(|,Tjj}*|">als de waarde van het kompas &lt; 315 en &gt; 45</variable><variable id="VDIV%Js@5^~E%?mB6v%H">&lt; 315 en &gt; 225</variable><variable id=";9])vNh%o38/Jxm6yEeW">&lt; 135 en &gt; 45</variable><variable id="$|kP2?icXY8/$mq@ZAxE">&lt; 315 en &gt; 45</variable><variable id="4OJdoRvLhdEd!+)CtZEP">&lt; 225 en &gt; 135</variable></variables><block type="device_forever" id="LRzL9J-uS^G(}$GwxRBh" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="8(2Ik3E5O/78C]w7kacr"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
